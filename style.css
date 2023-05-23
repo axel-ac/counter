@@ -10,13 +10,13 @@ body {
   display: grid;
   align-items: center;
   justify-content: center;
-  background-color: #ffff;
+  background-color: cyan;
   margin-top: 3rem;
 }
 
 .baslik {
   font-family: "Poppin", sans-serif;
-  color: rgb(60, 56, 56);
+  color: blcak;
   margin: 9rem;
   font-weight: 700;
   font-size: 50px;
@@ -37,11 +37,11 @@ button {
   border-radius: 25px;
   font-size: 20px;
   border: none;
-  background-color: sandybrown;
+  background-color: white;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   margin: 10px 5px 5px 10px;
   letter-spacing: 2px;
-  box-shadow: 4px 5px gray;
+  box-shadow: 4px 5px;
 }
 
 .btn .azalt:hover {
