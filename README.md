@@ -13,7 +13,7 @@ counter (folder)
 ## Project-gif
 ![counter](https://github.com/axel-ac/counter/assets/102467587/aa3de8f7-6c5d-468d-9efb-3dadaf22bf20)
 ## Project-link
-
+https://counter-vanillajs-axel.netlify.app/
 ### At the end of the project, following topics are to be covered;
 - HTML 
 - CSS
